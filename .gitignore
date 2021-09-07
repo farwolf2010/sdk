@@ -13,5 +13,4 @@ gen
 *.iml
 project.properties
 .externalNativeBuild
-/libs/
 proguard-rules-legacy.pro
